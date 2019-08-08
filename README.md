@@ -8,14 +8,12 @@
 Using the same framework to build both server and client-side applications saves you time and money. This book teaches you how you can use JavaScript and Node.js to build highly scalable APIs that work well with lightweight cross-platform client applications. It begins with the basics of Node.js in the context of backend development, and quickly leads you through the creation of an example client that pairs up with a fully authenticated API implementation. By the end of the book, you’ll have the skills and exposure required to get hands-on with your own API development project.
 
 ## What you will learn
-* Perform advanced statistical calculations using the WINDOW function
-* Use SQL queries and subqueries to prepare data for analysis
-* Import and export data using a text file and psql
-* Apply special SQL clauses and functions to generate descriptive statistics
-* Analyze special data types in SQL, including geospatial and time data
-* Optimize queries to improve their performance for faster results
-* Debug queries that won’t run
-* Use SQL to summarize and identify patterns in data
+* Understand how Node.js works, its trends, and where it is being used now
+* Learn about application modularization and built-in Node.js modules
+* Use the npm third-party module registry to extend your application
+* Gain an understanding of asynchronous programming with Node.js
+* Develop scalable and high-performing APIs using hapi.js and Knex.js
+* Write unit tests for your APIs to ensure reliability and maintainability
  
 
 ### The examples of this title has been implemented in the Windows/MAC/Linux operating system.
